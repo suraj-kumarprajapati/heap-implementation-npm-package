@@ -1,0 +1,21 @@
+{
+  "name": "heapdatastructure",
+  "version": "1.0.0",
+  "keywords": [
+    "minHeap",
+    "maxHeap",
+    "heap",
+    "priority queue"
+  ],
+  "description": "this is a package that provides heap implementation in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"suraj prajapati\"",
+  "license": "ISC",
+  "git" : {
+    
+  }
+  
+}
