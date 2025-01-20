@@ -14,8 +14,9 @@
   },
   "author": "\"suraj prajapati\"",
   "license": "ISC",
-  "git" : {
-    
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suraj-kumarprajapati/heap-implementation-npm-package.git"
   }
   
 }
